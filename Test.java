@@ -2,9 +2,7 @@ package newjavadevlopment;
 
 public class Demo {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello Java");
+	public void m2(){
+		System.out.println("Inside m2()");
 	}
-
 }
